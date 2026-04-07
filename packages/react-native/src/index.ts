@@ -38,6 +38,7 @@ export {
 } from './icons/Antigravity';
 export { default as Anyscale, type CompoundedIcon as AnyscaleProps } from './icons/Anyscale';
 export { default as Apertis, type CompoundedIcon as ApertisProps } from './icons/Apertis';
+export { default as ApiHubAi, type CompoundedIcon as ApiHubAiProps } from './icons/ApiHubAi';
 export { default as Apple, type CompoundedIcon as AppleProps } from './icons/Apple';
 export { default as Arcee, type CompoundedIcon as ArceeProps } from './icons/Arcee';
 export { default as AskVerdict, type CompoundedIcon as AskVerdictProps } from './icons/AskVerdict';
