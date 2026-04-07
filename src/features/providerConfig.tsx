@@ -14,6 +14,7 @@ import AlibabaCloud from '@/AlibabaCloud';
 import AntGroup from '@/AntGroup';
 import Anthropic from '@/Anthropic';
 import Anyscale from '@/Anyscale';
+import ApiHubAi from '@/ApiHubAi';
 import Apple from '@/Apple';
 import AtlasCloud from '@/AtlasCloud';
 import Aws from '@/Aws';
@@ -163,6 +164,7 @@ export const providerMappings: ProviderMapping[] = [
   { Icon: AlephAlpha, keywords: [ModelProvider.AlephAlpha] },
   { Icon: AntGroup, keywords: [ModelProvider.AntGroup] },
   { Icon: Anyscale, keywords: [ModelProvider.Anyscale] },
+  { Icon: ApiHubAi, keywords: [ModelProvider.ApiHubAi] },
   { Icon: Apple, keywords: [ModelProvider.Apple] },
   { Icon: Baidu, keywords: [ModelProvider.Baidu] },
   { Icon: Bailian, keywords: [ModelProvider.Bailian, ModelProvider.BailianCodingPlan] },
